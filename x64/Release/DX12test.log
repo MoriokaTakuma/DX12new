@@ -1,0 +1,3 @@
+﻿  main.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: 外部シンボル main は未解決です
+C:\Users\takum\Desktop\DX12test\x64\Release\DX12test.exe : fatal error LNK1120: 1 件の未解決の外部参照
